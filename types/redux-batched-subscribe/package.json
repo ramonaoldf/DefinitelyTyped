@@ -1,6 +1,0 @@
-{
-    "private": true,
-    "dependencies": {
-        "redux": ">=1.0.0"
-    }
-}
